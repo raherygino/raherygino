@@ -9,8 +9,10 @@
 -  🔭 I’m currently working on [MERN Invoice App](https://github.com/raherygino/mern-invoice-app)
 - 🤔 I’m looking for help with AWS, Azure
 - 💬 Ask me about: Technologies & Programming
-- 📫 How to reach me: [georgino197@gmail.com](mailto:georgino197@gmail.com)
 - ⚡ Fun fact: Graphic Design & UX/UI Design 😄
+- 📫 How to reach me: <br>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:georgino197@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/georginot-armelin-raherinomenjanahary-a701a6188)
 
 #### 🖨️ Technologies
 We will see the technologies that I master
