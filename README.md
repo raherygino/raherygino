@@ -1,3 +1,6 @@
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=raherygino&show_icons=true&theme=dracula&hide=stars,issues)
+
 ### Hi there 👋
 
 #### About me
@@ -25,4 +28,7 @@
   <li>⚡ Fun fact: Graphic Design & UX/UI Design 😄 </li>
 </ul>
 
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/raherygino/raherygino)
+![pv](https://pageview.vercel.app/?github_user=raherygino)
 
