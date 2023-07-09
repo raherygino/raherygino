@@ -2,7 +2,9 @@
 # 👋 Hi there! 
 <p>My name is Georginot Armelin and I enjoy creating things that live on the internet. My interest in web development started back in 2016<br>
   I'm fullStack <b>Developer from Madagascar</b></p>
-  <small>Here is my <a href="https://raherygino.github.io">Portolio</a></small>
+  <small>Here is my <a href="https://raherygino.github.io">Portolio</a></small> <br>
+
+  <img src="img/cover.jpg">
  
 ### Github Stats ⚡
   
