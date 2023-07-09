@@ -1,11 +1,8 @@
-
+<img src="img/cover.jpg"> 
 # 👋 Hi there! 
 <p>My name is Georginot Armelin and I enjoy creating things that live on the internet. My interest in web development started back in 2016<br>
   I'm fullStack <b>Developer from Madagascar</b></p>
   <small>Here is my <a href="https://raherygino.github.io">Portolio</a></small> <br>
-
-  <img src="img/cover.jpg">
- 
 ### Github Stats ⚡
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=raherygino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
