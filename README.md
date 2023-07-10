@@ -1,4 +1,4 @@
-<img src="img/cover.jpg"> 
+<img src="img/gino_cover.jpg"> 
 # 👋 Hi there! 
 <p>My name is Georginot Armelin and I enjoy creating things that live on the internet. My interest in web development started back in 2016<br>
   I'm fullStack <b>Developer from Madagascar</b></p>
