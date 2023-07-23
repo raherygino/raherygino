@@ -1,5 +1,6 @@
 <img src="img/gino_cover.jpg"> 
 ##  👋 Hi there! 
+## Without struggle, success has no value
 <p>My name is Georginot Armelin and I enjoy creating things that live on the internet. My interest in web development started back in 2016<br>
   I'm fullStack <b>Developer from Madagascar</b></p>
   <small>Here is my <a href="https://raherygino.github.io">Portolio</a></small> <br>
