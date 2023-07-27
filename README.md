@@ -14,7 +14,7 @@
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,php,mysql,nodejs,py,kotlin,java,bootstrap,express,react,mongodb,laravel,git)](https://skillicons.dev)<br/>
 
 
--  🔭 I’m currently working on [MERN Invoice App](https://github.com/raherygino/mern-invoice-app)
+-  🔭 I’m currently working on [GUI with PySide6 Python](https://github.com/raherygino/gui-desktop-invoice-app-python)
 - 🤔 I’m looking for help with AWS, Azure
 - 💬 Ask me about: Technologies & Programming
 - ⚡ Fun fact: Graphic Design & UX/UI Design 😄
