@@ -6,9 +6,13 @@
 
 ### Github Stats ⚡
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=raherygino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+![Leonid's github details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raherygino&theme=github_dark)
+![Leonid's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raherygino&theme=github_dark)
+![Leonid's github languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raherygino&theme=github_dark)
+
+  <!--a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=raherygino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raherygino&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  <hr>
+  <hr-->
 
 <!-- activity graph heroku-app start 
 <p align="center">
@@ -24,8 +28,6 @@ activity graph heroku-app end
 </picture>
 ![SkillIcons](https://skillicons.dev/icons?i=js,html,css,php,mysql,nodejs,py,kotlin,java,bootstrap,express,react,mongodb,laravel,git)(https://skillicons.dev)<br/-->
 
-
--  🔭 I’m currently working on [GUI with PySide6 Python](https://github.com/raherygino/gui-desktop-invoice-app-python)
 - 🤔 I’m looking for help with AWS, Azure
 - 💬 Ask me about: Technologies & Programming
 - ⚡ Fun fact: Graphic Design & UX/UI Design 😄
