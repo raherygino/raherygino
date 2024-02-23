@@ -35,7 +35,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:georgino197@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/georginot-armelin-raherinomenjanahary-a701a6188)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raherygino" alt="raherygino" /> </p>
 ![GitHub last commit](https://img.shields.io/github/last-commit/raherygino/raherygino)
 ![pv](https://pageview.vercel.app/?github_user=raherygino)
 
