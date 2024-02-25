@@ -38,7 +38,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raherygino" alt="raherygino" /> </p>
 ![GitHub last commit](https://img.shields.io/github/last-commit/raherygino/raherygino)
 ![pv](https://pageview.vercel.app/?github_user=raherygino)
-
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 <!--🏆TROPHYGIF-->
 <p>
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
