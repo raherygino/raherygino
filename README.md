@@ -10,9 +10,9 @@
 ![Leonid's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raherygino&theme=github_dark)
 ![Leonid's github languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raherygino&theme=github_dark)
 
-  <!--a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=raherygino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=raherygino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raherygino&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  <hr-->
+  <hr>
 
 <!--activity graph heroku-app start -->
 <p align="center">
