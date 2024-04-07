@@ -5,11 +5,11 @@
   <small>Here is my <a href="https://raherygino.github.io">Portolio</a></small> <br>
 
 ### Github Stats ⚡
-  
+<!--
 ![Leonid's github details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raherygino&theme=github_dark)
 ![Leonid's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raherygino&theme=github_dark)
 ![Leonid's github languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raherygino&theme=github_dark)
-
+-->
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=raherygino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raherygino&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 <hr>
@@ -35,7 +35,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:georgino197@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/georginot-armelin-raherinomenjanahary-a701a6188)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raherygino" alt="raherygino" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=raherygino" alt="raherygino" /> </p>
 ![GitHub last commit](https://img.shields.io/github/last-commit/raherygino/raherygino)
 ![pv](https://pageview.vercel.app/?github_user=raherygino)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
@@ -44,7 +44,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-<!--🏆TROPHYGIF-->
+🏆TROPHYGIF-->
 <p>
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
